@@ -1,0 +1,17 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "diefaust1993@gmail.com",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "awilix": "^12.0.5",
+    "joi": "^17.13.3"
+  }
+}
